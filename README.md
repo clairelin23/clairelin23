@@ -7,7 +7,7 @@
 
 ### About me 
 
-- 👩🏻‍💻 Graduate Studetn at CMU, Electrical and Computer Engineering, focusing on imaging algortihms and integration to large-scale systems
+- 👩🏻‍💻 Graduate Studetn at CMU, Electrical and Computer Engineering, focusing on imaging algortihms and integration to large systems
 - 🎖 Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - 💼 Prev Software Engineer at [Clario](https://clario.com)
 - 👩🏻‍🎓 SJSU Alumni
