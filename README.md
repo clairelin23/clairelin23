@@ -8,7 +8,7 @@
 ### About me 
 
 - 👩🏻‍🎓 ECE Graduate Studetn at CMU, focusing on imaging algortihms and integration to large systems
-- 🎖 Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
+- ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - 👩🏻‍💻 Prev Software Engineer at [Clario](https://clario.com)
 - 👧🏻 Pronouns: She/Her
 - 🎓 SJSU Alumni
