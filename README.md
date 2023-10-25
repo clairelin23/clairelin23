@@ -11,7 +11,7 @@
 - 🎖 Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - 👩🏻‍💻 Prev Software Engineer at [Clario](https://clario.com)
 - 👩🏻‍🎓 SJSU Alumni
-- 🐶 Fun fact: I adopt all my pets from animal shelter.
+- 🐶 Fun fact: I adopt all my pets from animal shelters.
 
 <!--
 **clairelin23/clairelin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
