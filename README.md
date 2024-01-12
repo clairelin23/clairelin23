@@ -7,7 +7,7 @@
 
 ### About me 
 
-- 👩🏻‍🎓 ECE Graduate Studetn at CMU, passionate about backend/imaging algorithms and integration to large systems
+- 👩🏻‍🎓 ECE Graduate Studetn at CMU
 - ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - ✅ Prev Software Engineer at [Clario](https://clario.com)
 - 🎓 SJSU Alumni
