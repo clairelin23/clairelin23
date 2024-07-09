@@ -8,10 +8,10 @@
 ### About me 
 
 - ✅ Machine Learning Engineer at [Veytel](https://www.veytel.com)
-- 👩🏻‍🎓 ECE Graduate Studetn at CMU
+- 👩🏻‍🎓 ECE Graduate Student at CMU
 - ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - ✅ Prev Software Engineer at [Clario](https://clario.com)
-- 🎓 SJSU Alumni
+- 🎓 SJSU Computer Sceicne 
 - 🐶 Fun fact: I adopt all my pets from animal shelters.
 
 <!--
