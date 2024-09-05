@@ -16,7 +16,8 @@
 - 👩🏻‍🎓 ECE Graduate Student at CMU
 - ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - ✅ Prev Software Engineer at [Clario](https://clario.com)
-- 🎓 SJSU Computer Sceicne 
+- 🎓 SJSU Computer Sceicne
+- 💼 I have prior experience in AI, Computer Vision, Distributed Systems, Web Dev
 - 🐶 Fun fact: I adopt all my pets from animal shelters.
 
 <!--
