@@ -3,9 +3,11 @@
 
 <div align="center">
 <h3>   Claire Lin | 👩🏻‍💻 | 🌏 Currently based out in Pittsburgh, PA </h3> 
-</div>
 
  👋 Check my [personal website](https://clairelin23.github.io) for further details
+</div>
+
+ 
 
 
 
