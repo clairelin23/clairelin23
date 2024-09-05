@@ -2,11 +2,14 @@
 <a href="https://www.linkedin.com/in/claireshao-yulin/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3>  👋 Claire Lin | 👩🏻‍💻 | 🌏 Currently based out in Pittsburgh, PA | [Personal Website](https://clairelin23.github.io) </h3> 
+<h3>   Claire Lin | 👩🏻‍💻 | 🌏 Currently based out in Pittsburgh, PA </h3> 
 </div>
 
-### About me 
+ 👋 Check my [personal website](https://clairelin23.github.io) for further details
 
+
+
+### About me 
 - ✅ Machine Learning Engineer at [Veytel](https://www.veytel.com)
 - 👩🏻‍🎓 ECE Graduate Student at CMU
 - ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
