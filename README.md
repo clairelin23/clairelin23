@@ -2,9 +2,8 @@
 <a href="https://www.linkedin.com/in/claireshao-yulin/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3>   Claire Lin | 👩🏻‍💻 | 🌏 </h3> 
+<h3>   Claire Lin | 👩🏻‍💻🌏  | 👋 Check my [personal website](https://clairelin23.github.io) for further details  </h3> 
 
- 👋 Check my [personal website](https://clairelin23.github.io) for further details
 </div>
 
  
