@@ -2,8 +2,9 @@
 <a href="https://www.linkedin.com/in/claireshao-yulin/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3>   Claire Lin | 👩🏻‍💻🌏  | 👋 Check my [personal website](https://clairelin23.github.io) for further details  </h3> 
+<h3>   Claire Lin  </h3> 
 
+ 👋 Check my [personal website](https://clairelin23.github.io) for further details
 </div>
 
  
@@ -16,7 +17,7 @@
 - ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
 - ✅ Prev Software Engineer at [Clario](https://clario.com)
 - 🎓 SJSU Computer Sceicne
-- 💼 I have prior experience in Machine Learning, Computer Vision, Web Dev
+- 💼 I have prior experience in Machine Learning, Computer Vision, and Web Dev
 - 🐶 Fun fact: I adopt all my pets from animal shelters.
 
 <!--
