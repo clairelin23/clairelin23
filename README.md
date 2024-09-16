@@ -4,7 +4,7 @@
 <div align="center">
 <h3>   Claire Lin  </h3> 
 
- 👋 Check my [personal website](https://clairelin23.github.io) for further details
+ 👋 Check out my [personal website](https://clairelin23.github.io) for further details
 </div>
 
  
