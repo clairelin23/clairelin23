@@ -12,7 +12,7 @@
 
 
 ### About me 
-- ✅ Software Engineer at Amazon 
+- ✅ Software Development Engineer at Amazon 
 - ✅ Prev Machine Learning Engineer at [Veytel](https://www.veytel.com)
 - 👩🏻‍🎓 ECE Graduate Student at CMU
 - ✍️ Completed Internship at [Adobe Sign](https://www.adobe.com/sign.html)
